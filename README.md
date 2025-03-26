@@ -10,7 +10,8 @@ data yang digunakan berasal dari kaggle
 ## 3. Tujuan 
 **A. Clustering** 
 - Mengelompokan data berdasarkan pola yang mirip.
-- Algoritma Yang di gunakan : K- Means, PCA
+- Algoritma Yang di gunakan : K- Means, PCA. 
+
 **B. Klasifikasi**
 - Memprediksi kondisi cuaca
 - Model yang di gunakan : KNN dan Random Forest 
